@@ -10,7 +10,7 @@
 		"foreground": "#bb77ff"
 	  },
 	  "variable.defaultLibrary": {
-		"foreground": "#e1e1d9"
+		"foreground": "#bb77ff"
 	  }
 	},
 	"tokenColors": [
@@ -336,7 +336,7 @@
 		"name": "js variable readwrite",
 		"scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
 		"settings": {
-		  "foreground": "#ff9848"
+		  "foreground": "#e1e1e0"
 		}
 	  },
 	  {
@@ -510,7 +510,7 @@
 		"name": "Operators",
 		"scope": "keyword.operator",
 		"settings": {
-		  "foreground": "#e1e1e0"
+		  "foreground": "#4070ff"
 		}
 	  },
 	  {
@@ -1842,7 +1842,8 @@
 		"settings": {
 		  "fontStyle": "italic"
 		}
-	  }
+	  },
+	  
 	],
 	"colors": {
 	  "foreground": "#ffffff",
