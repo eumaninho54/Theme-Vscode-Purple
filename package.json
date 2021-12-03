@@ -1,8 +1,8 @@
 {
     "name": "theme-purple-codain",
-    "displayName": "The-best-theme-on-my-street",
+    "displayName": "Purple-Codain",
     "description": "The only theme on my street",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.62.0"
     },
@@ -25,5 +25,7 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/ymaninho54/Theme-Vscode-Purple"
-    }
+    },
+    "publisher": "ymaninho",
+    "icon": "logo.png"
 }
