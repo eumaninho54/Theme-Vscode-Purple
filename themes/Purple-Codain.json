@@ -22,6 +22,20 @@
 		}
 	  },
 	  {
+		"name": "parameter",
+		"scope": "variable.parameter",
+		"settings":{
+			"foreground": "#ff9848"
+		}
+	  },
+	  {
+		"name": "abl type",
+		"scope": "storage.type.abl",
+		"settings":{
+			"foreground": "#ff9848"
+		}
+	  },
+	  {
 		"name": "haskell variable generic-type",
 		"scope": "variable.other.generic-type.haskell",
 		"settings": {
@@ -39,7 +53,7 @@
 		"name": "support.variable.magic.python",
 		"scope": "support.variable.magic.python",
 		"settings": {
-		  "foreground": "#ff9848"
+		  "foreground": "#e1e1e0"
 		}
 	  },
 	  {
@@ -81,7 +95,7 @@
 		"name": "variable.language.rust",
 		"scope": "variable.language.rust",
 		"settings": {
-		  "foreground": "#ff9848"
+		  "foreground": "#e1e1e0"
 		}
 	  },
 	  {
@@ -252,7 +266,7 @@
 		"name": "java variable.name",
 		"scope": "meta.definition.variable.name.java",
 		"settings": {
-		  "foreground": "#ff9848"
+		  "foreground": "#e1e1e0"
 		}
 	  },
 	  {
@@ -461,7 +475,7 @@
 		"name": "python parameter",
 		"scope": "variable.parameter.function.language.python",
 		"settings": {
-		  "foreground": "#bb77ff"
+		  "foreground": "#ff9848"
 		}
 	  },
 	  {
@@ -482,7 +496,7 @@
 		"name": "pyCs",
 		"scope": "variable.parameter.function.python",
 		"settings": {
-		  "foreground": "#bb77ff"
+		  "foreground": "#ff9848"
 		}
 	  },
 	  {
@@ -545,7 +559,7 @@
 		"name": "Variables",
 		"scope": "variable",
 		"settings": {
-		  "foreground": "#ff9848"
+		  "foreground": "#e1e1d9"
 		}
 	  },
 	  {
@@ -566,7 +580,7 @@
 		"name": "Java Variables",
 		"scope": "token.variable.parameter.java",
 		"settings": {
-		  "foreground": "#e1e1e0"
+		  "foreground": "#ff9848"
 		}
 	  },
 	  {
@@ -1136,7 +1150,7 @@
 		"name": "php function-resets",
 		"scope": "punctuation.definition.parameters.begin.bracket.round.php,punctuation.definition.parameters.end.bracket.round.php,punctuation.separator.delimiter.php,punctuation.section.scope.begin.php,punctuation.section.scope.end.php,punctuation.terminator.expression.php,punctuation.definition.arguments.begin.bracket.round.php,punctuation.definition.arguments.end.bracket.round.php,punctuation.definition.storage-type.begin.bracket.round.php,punctuation.definition.storage-type.end.bracket.round.php,punctuation.definition.array.begin.bracket.round.php,punctuation.definition.array.end.bracket.round.php,punctuation.definition.begin.bracket.round.php,punctuation.definition.end.bracket.round.php,punctuation.definition.begin.bracket.curly.php,punctuation.definition.end.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php,punctuation.definition.section.switch-block.start.bracket.curly.php,punctuation.definition.section.switch-block.begin.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php",
 		"settings": {
-		  "foreground": "#e1e1e0"
+		  "foreground": "#ff9848"
 		}
 	  },
 	  {
@@ -1206,7 +1220,7 @@
 		"name": "parameter function js/ts",
 		"scope": "function.parameter",
 		"settings": {
-		  "foreground": "#e1e1e0"
+		  "foreground": "#ff9848"
 		}
 	  },
 	  {
@@ -1220,7 +1234,7 @@
 		"name": "parameter function ruby cs",
 		"scope": "function.parameter.ruby, function.parameter.cs",
 		"settings": {
-		  "foreground": "#e1e1e0"
+		  "foreground": "#ff9848"
 		}
 	  },
 	  {
