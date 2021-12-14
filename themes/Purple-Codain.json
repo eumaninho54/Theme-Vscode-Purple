@@ -624,12 +624,13 @@
 		}
 	  },
 	  {
-		"name": "Classes",
-		"scope": "support.class, entity.name.type.class",
+		"name": "meta.class.ts",
+		"scope": "meta.class.ts",
 		"settings": {
-		  "foreground": "#e1e1d9"
+			"foreground": "#21ff4e"
 		}
 	  },
+
 	  {
 		"name": "Class name",
 		"scope": "entity.name.class.identifier.namespace.type",
@@ -655,13 +656,7 @@
 		  "foreground": "#ff9848"
 		}
 	  },
-	  {
-		"name": "Type Name",
-		"scope": "entity.name.type",
-		"settings": {
-		  "foreground": "#e1e1d9"
-		}
-	  },
+	
 	  {
 		"name": "Keyword Control",
 		"scope": "keyword.control",
@@ -1273,10 +1268,17 @@
 		}
 	  },
 	  {
+		"name": "meta.type.annotation.ts",
+		"scope": "meta.type.annotation.ts",
+		"settings": {
+			"foreground": "#228B22"
+		}
+	  },
+	  {
 		"name": "ts primitive/builtin types",
 		"scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
 		"settings": {
-		  "foreground": "#e1e1d9"
+		  "foreground": "#228B22"
 		}
 	  },
 	  {
